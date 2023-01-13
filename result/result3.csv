@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1673457726475,2959,HTTP Request,200,OK,new_user 1-13,text,true,,62347,118,100,100,https://www.daraz.com.bd/,1359,0,1242
+1673457729437,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-13,text,false,,1122,0,100,100,http:/,0,0,0
+1673457726555,3461,HTTP Request,200,OK,new_user 1-17,text,true,,62314,118,99,99,https://www.daraz.com.bd/,1296,0,1086
+1673457730017,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-17,text,false,,1122,0,99,99,http:/,0,0,0
+1673457727079,3688,HTTP Request,200,OK,new_user 1-43,text,true,,62347,118,98,98,https://www.daraz.com.bd/,1589,0,1165
+1673457730768,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-43,text,false,,1122,0,98,98,http:/,0,0,0
+1673457727238,3915,HTTP Request,200,OK,new_user 1-51,text,true,,62314,118,97,97,https://www.daraz.com.bd/,626,0,402
+1673457731154,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-51,text,false,,1122,0,97,97,http:/,0,0,0
+1673457727899,3563,HTTP Request,200,OK,new_user 1-72,text,true,,62314,118,96,96,https://www.daraz.com.bd/,1552,0,1139
+1673457731463,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-72,text,false,,1122,0,96,96,http:/,0,0,0
+1673457727480,4484,HTTP Request,200,OK,new_user 1-57,text,true,,62314,118,95,95,https://www.daraz.com.bd/,353,0,176
+1673457731966,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-57,text,false,,1122,0,95,95,http:/,0,0,0
+1673457727949,4422,HTTP Request,200,OK,new_user 1-85,text,true,,62347,118,94,94,https://www.daraz.com.bd/,1088,0,653
+1673457732373,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-85,text,false,,1122,0,94,94,http:/,0,0,0
+1673457727176,5503,HTTP Request,200,OK,new_user 1-48,text,true,,62347,118,93,93,https://www.daraz.com.bd/,1142,0,1035
+1673457732680,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-48,text,false,,1122,0,93,93,http:/,0,0,0
+1673457728184,4755,HTTP Request,200,OK,new_user 1-97,text,true,,62314,118,92,92,https://www.daraz.com.bd/,1525,0,1421
+1673457732941,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-97,text,false,,1122,0,92,92,http:/,0,0,0
+1673457726411,6692,HTTP Request,200,OK,new_user 1-6,text,true,,62355,118,91,91,https://www.daraz.com.bd/,2077,0,1966
+1673457733105,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-6,text,false,,1122,0,91,91,http:/,0,0,0
+1673457726434,6825,HTTP Request,200,OK,new_user 1-11,text,true,,62314,118,90,90,https://www.daraz.com.bd/,2064,0,1717
+1673457733261,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-11,text,false,,1122,0,90,90,http:/,0,0,0
+1673457727922,5372,HTTP Request,200,OK,new_user 1-82,text,true,,62314,118,89,89,https://www.daraz.com.bd/,1869,0,1755
+1673457733296,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-82,text,false,,1122,0,89,89,http:/,0,0,0
+1673457726410,7027,HTTP Request,200,OK,new_user 1-1,text,true,,62347,118,88,88,https://www.daraz.com.bd/,1427,0,1277
+1673457733439,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-1,text,false,,1122,0,88,88,http:/,0,0,0
+1673457727922,5609,HTTP Request,200,OK,new_user 1-81,text,true,,62347,118,87,87,https://www.daraz.com.bd/,1129,0,1023
+1673457733533,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-81,text,false,,1122,0,87,87,http:/,0,0,0
+1673457726790,6746,HTTP Request,200,OK,new_user 1-28,text,true,,62355,118,86,86,https://www.daraz.com.bd/,1044,0,908
+1673457733537,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-28,text,false,,1122,0,86,86,http:/,0,0,0
+1673457727902,5742,HTTP Request,200,OK,new_user 1-78,text,true,,62347,118,85,85,https://www.daraz.com.bd/,1972,0,1873
+1673457733647,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-78,text,false,,1122,0,85,85,http:/,0,0,0
+1673457727898,5902,HTTP Request,200,OK,new_user 1-61,text,true,,62347,118,84,84,https://www.daraz.com.bd/,3365,0,3254
+1673457733802,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-61,text,false,,1122,0,84,84,http:/,0,0,0
+1673457727853,5996,HTTP Request,200,OK,new_user 1-68,text,true,,62314,118,83,83,https://www.daraz.com.bd/,1788,0,1680
+1673457733850,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-68,text,false,,1122,0,83,83,http:/,0,0,0
+1673457728049,5885,HTTP Request,200,OK,new_user 1-88,text,true,,62347,118,82,82,https://www.daraz.com.bd/,3038,0,2934
+1673457733935,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-88,text,false,,1122,0,82,82,http:/,0,0,0
+1673457726410,7796,HTTP Request,200,OK,new_user 1-2,text,true,,62347,118,81,81,https://www.daraz.com.bd/,2766,0,1985
+1673457734208,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-2,text,false,,1122,0,81,81,http:/,0,0,0
+1673457727025,7242,HTTP Request,200,OK,new_user 1-40,text,true,,62347,118,80,80,https://www.daraz.com.bd/,815,0,616
+1673457734268,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-40,text,false,,1122,0,80,80,http:/,0,0,0
+1673457726532,7746,HTTP Request,200,OK,new_user 1-16,text,true,,62347,118,79,79,https://www.daraz.com.bd/,2424,0,2316
+1673457734280,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-16,text,false,,1122,0,79,79,http:/,0,0,0
+1673457727838,6486,HTTP Request,200,OK,new_user 1-64,text,true,,62314,118,78,78,https://www.daraz.com.bd/,844,0,732
+1673457734326,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-64,text,false,,1122,0,78,78,http:/,0,0,0
+1673457728192,6432,HTTP Request,200,OK,new_user 1-98,text,true,,62347,118,77,77,https://www.daraz.com.bd/,3257,0,3150
+1673457734626,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-98,text,false,,1122,0,77,77,http:/,0,0,0
+1673457727899,6969,HTTP Request,200,OK,new_user 1-71,text,true,,62355,118,76,76,https://www.daraz.com.bd/,742,0,633
+1673457734869,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-71,text,false,,1122,0,76,76,http:/,0,0,0
+1673457727905,7321,HTTP Request,200,OK,new_user 1-77,text,true,,62314,118,75,75,https://www.daraz.com.bd/,4362,0,4257
+1673457735228,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-77,text,false,,1122,0,75,75,http:/,0,0,0
+1673457727100,8250,HTTP Request,200,OK,new_user 1-44,text,true,,62347,118,74,74,https://www.daraz.com.bd/,804,0,688
+1673457735351,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-44,text,false,,1122,0,74,74,http:/,0,0,0
+1673457728082,7481,HTTP Request,200,OK,new_user 1-92,text,true,,62314,118,73,73,https://www.daraz.com.bd/,1594,0,1480
+1673457735565,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-92,text,false,,1122,0,73,73,http:/,0,0,0
+1673457726928,8793,HTTP Request,200,OK,new_user 1-33,text,true,,62314,118,72,72,https://www.daraz.com.bd/,1433,0,1314
+1673457735723,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-33,text,false,,1122,0,72,72,http:/,0,0,0
+1673457727219,8865,HTTP Request,200,OK,new_user 1-50,text,true,,62314,118,71,71,https://www.daraz.com.bd/,2399,0,2290
+1673457736085,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-50,text,false,,1122,0,71,71,http:/,0,0,0
+1673457726824,9568,HTTP Request,200,OK,new_user 1-30,text,true,,62314,118,70,70,https://www.daraz.com.bd/,2562,0,2213
+1673457736394,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-30,text,false,,1122,0,70,70,http:/,0,0,0
+1673457726704,9790,HTTP Request,200,OK,new_user 1-24,text,true,,62355,118,69,69,https://www.daraz.com.bd/,2132,0,1701
+1673457736495,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-24,text,false,,1122,0,69,69,http:/,0,0,0
+1673457726723,9855,HTTP Request,200,OK,new_user 1-25,text,true,,62314,118,68,68,https://www.daraz.com.bd/,1712,0,1604
+1673457736581,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-25,text,false,,1122,0,68,68,http:/,0,0,0
+1673457727850,9025,HTTP Request,200,OK,new_user 1-66,text,true,,62314,118,67,67,https://www.daraz.com.bd/,1665,0,360
+1673457736878,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-66,text,false,,1122,0,67,67,http:/,0,0,0
+1673457728160,9375,HTTP Request,200,OK,new_user 1-95,text,true,,62314,118,66,66,https://www.daraz.com.bd/,1977,0,1691
+1673457737537,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-95,text,false,,1122,0,66,66,http:/,0,0,0
+1673457727845,13638,HTTP Request,200,OK,new_user 1-62,text,true,,62347,118,65,65,https://www.daraz.com.bd/,3646,0,3013
+1673457741484,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-62,text,false,,1122,0,65,65,http:/,0,0,0
+1673457727479,16256,HTTP Request,200,OK,new_user 1-56,text,true,,62314,118,64,64,https://www.daraz.com.bd/,733,0,627
+1673457743737,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-56,text,false,,1122,0,64,64,http:/,0,0,0
+1673457727841,21311,HTTP Request,200,OK,new_user 1-63,text,true,,62355,118,63,63,https://www.daraz.com.bd/,1826,0,1054
+1673457749153,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-63,text,false,,1122,0,63,63,http:/,0,0,0
+1673457726410,24007,HTTP Request,200,OK,new_user 1-3,text,true,,62314,118,62,62,https://www.daraz.com.bd/,1427,0,1278
+1673457750424,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-3,text,false,,1122,0,62,62,http:/,0,0,0
+1673457728054,24039,HTTP Request,200,OK,new_user 1-89,text,true,,62314,118,61,61,https://www.daraz.com.bd/,1630,0,1022
+1673457752094,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-89,text,false,,1122,0,61,61,http:/,0,0,0
+1673457726497,30960,HTTP Request,200,OK,new_user 1-14,text,true,,670580,118,60,60,https://www.daraz.com.bd/,1411,0,1297
+1673457757458,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-14,text,false,,1122,0,60,60,http:/,0,0,0
+1673457727836,31594,HTTP Request,200,OK,new_user 1-65,text,true,,62314,118,59,59,https://www.daraz.com.bd/,2248,0,1812
+1673457759431,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-65,text,false,,1122,0,59,59,http:/,0,0,0
+1673457726624,34180,HTTP Request,200,OK,new_user 1-19,text,true,,670540,118,58,58,https://www.daraz.com.bd/,1866,0,1753
+1673457760805,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-19,text,false,,1122,0,58,58,http:/,0,0,0
+1673457726964,36133,HTTP Request,200,OK,new_user 1-37,text,true,,670585,118,57,57,https://www.daraz.com.bd/,873,0,680
+1673457763099,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-37,text,false,,1122,0,57,57,http:/,0,0,0
+1673457726690,37549,HTTP Request,200,OK,new_user 1-23,text,true,,670597,118,56,56,https://www.daraz.com.bd/,1369,0,1027
+1673457764242,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-23,text,false,,1122,0,56,56,http:/,0,0,0
+1673457727272,37082,HTTP Request,200,OK,new_user 1-53,text,true,,670540,118,55,55,https://www.daraz.com.bd/,574,0,369
+1673457764356,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-53,text,false,,1122,0,55,55,http:/,0,0,0
+1673457726990,38703,HTTP Request,200,OK,new_user 1-38,text,true,,670580,118,54,54,https://www.daraz.com.bd/,856,0,650
+1673457765695,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-38,text,false,,1122,0,54,54,http:/,0,0,0
+1673457727115,39008,HTTP Request,200,OK,new_user 1-45,text,true,,670548,118,53,53,https://www.daraz.com.bd/,639,0,559
+1673457766126,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-45,text,false,,1122,0,53,53,http:/,0,0,0
+1673457726586,39586,HTTP Request,200,OK,new_user 1-18,text,true,,670564,118,52,52,https://www.daraz.com.bd/,1262,0,1072
+1673457766174,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-18,text,false,,1122,0,52,52,http:/,0,0,0
+1673457726805,39370,HTTP Request,200,OK,new_user 1-29,text,true,,670580,118,51,51,https://www.daraz.com.bd/,938,0,834
+1673457766178,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-29,text,false,,1122,0,51,51,http:/,0,0,0
+1673457726663,39829,HTTP Request,200,OK,new_user 1-21,text,true,,670545,118,50,50,https://www.daraz.com.bd/,5885,0,5777
+1673457766494,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-21,text,false,,1122,0,50,50,http:/,0,0,0
+1673457727906,38605,HTTP Request,200,OK,new_user 1-75,text,true,,670585,118,49,49,https://www.daraz.com.bd/,1656,0,1549
+1673457766513,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-75,text,false,,1122,0,49,49,http:/,0,0,0
+1673457727929,39546,HTTP Request,200,OK,new_user 1-84,text,true,,670572,118,48,48,https://www.daraz.com.bd/,1296,0,1189
+1673457767477,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-84,text,false,,1122,0,48,48,http:/,0,0,0
+1673457726847,41406,HTTP Request,200,OK,new_user 1-31,text,true,,670548,118,47,47,https://www.daraz.com.bd/,1178,0,1057
+1673457768256,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-31,text,false,,1122,0,47,47,http:/,0,0,0
+1673457727903,40539,HTTP Request,200,OK,new_user 1-73,text,true,,670561,118,46,46,https://www.daraz.com.bd/,3444,0,3339
+1673457768444,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-73,text,false,,1122,0,46,46,http:/,0,0,0
+1673457727011,41909,HTTP Request,200,OK,new_user 1-39,text,true,,670548,118,45,45,https://www.daraz.com.bd/,839,0,629
+1673457768922,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-39,text,false,,1122,0,45,45,http:/,0,0,0
+1673457726933,42157,HTTP Request,200,OK,new_user 1-35,text,true,,670593,118,44,44,https://www.daraz.com.bd/,1520,0,1293
+1673457769092,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-35,text,false,,1122,0,44,44,http:/,0,0,0
+1673457727989,41448,HTTP Request,200,OK,new_user 1-87,text,true,,670537,118,43,43,https://www.daraz.com.bd/,2157,0,2054
+1673457769439,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-87,text,false,,1122,0,43,43,http:/,0,0,0
+1673457727902,41638,HTTP Request,200,OK,new_user 1-74,text,true,,670548,118,42,42,https://www.daraz.com.bd/,3454,0,3158
+1673457769543,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-74,text,false,,1122,0,42,42,http:/,0,0,0
+1673457726410,43254,HTTP Request,200,OK,new_user 1-8,text,true,,670548,118,41,41,https://www.daraz.com.bd/,1327,0,1251
+1673457769666,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-8,text,false,,1122,0,41,41,http:/,0,0,0
+1673457727925,42105,HTTP Request,200,OK,new_user 1-83,text,true,,670545,118,40,40,https://www.daraz.com.bd/,757,0,646
+1673457770032,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-83,text,false,,1122,0,40,40,http:/,0,0,0
+1673457726410,43710,HTTP Request,200,OK,new_user 1-4,text,true,,670560,118,39,39,https://www.daraz.com.bd/,1436,0,1229
+1673457770123,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-4,text,false,,1122,0,39,39,http:/,0,0,0
+1673457726410,43814,HTTP Request,200,OK,new_user 1-9,text,true,,670540,118,38,38,https://www.daraz.com.bd/,3424,0,3174
+1673457770227,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-9,text,false,,1122,0,38,38,http:/,0,0,0
+1673457727309,43284,HTTP Request,200,OK,new_user 1-54,text,true,,670580,118,37,37,https://www.daraz.com.bd/,539,0,332
+1673457770596,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-54,text,false,,1122,0,37,37,http:/,0,0,0
+1673457726473,44782,HTTP Request,200,OK,new_user 1-12,text,true,,670545,118,36,36,https://www.daraz.com.bd/,1983,0,1753
+1673457771258,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-12,text,false,,1122,0,36,36,http:/,0,0,0
+1673457726784,44561,HTTP Request,200,OK,new_user 1-26,text,true,,670548,118,35,35,https://www.daraz.com.bd/,1499,0,1391
+1673457771348,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-26,text,false,,1122,0,35,35,http:/,0,0,0
+1673457726788,44606,HTTP Request,200,OK,new_user 1-27,text,true,,670569,118,34,34,https://www.daraz.com.bd/,971,0,898
+1673457771396,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-27,text,false,,1122,0,34,34,http:/,0,0,0
+1673457727853,43806,HTTP Request,200,OK,new_user 1-67,text,true,,670561,118,33,33,https://www.daraz.com.bd/,1202,0,778
+1673457771660,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-67,text,false,,1122,0,33,33,http:/,0,0,0
+1673457726410,45600,HTTP Request,200,OK,new_user 1-7,text,true,,670561,118,32,32,https://www.daraz.com.bd/,2827,0,1743
+1673457772010,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-7,text,false,,1122,0,32,32,http:/,0,0,0
+1673457728236,43827,HTTP Request,200,OK,new_user 1-100,text,true,,670545,118,31,31,https://www.daraz.com.bd/,737,0,630
+1673457772064,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-100,text,false,,1122,0,31,31,http:/,0,0,0
+1673457727044,45193,HTTP Request,200,OK,new_user 1-41,text,true,,670603,118,30,30,https://www.daraz.com.bd/,691,0,596
+1673457772237,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-41,text,false,,1122,0,30,30,http:/,0,0,0
+1673457727899,44341,HTTP Request,200,OK,new_user 1-79,text,true,,670548,118,29,29,https://www.daraz.com.bd/,571,0,462
+1673457772242,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-79,text,false,,1122,0,29,29,http:/,0,0,0
+1673457727728,44554,HTTP Request,200,OK,new_user 1-60,text,true,,670548,118,28,28,https://www.daraz.com.bd/,3058,0,2957
+1673457772283,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-60,text,false,,1122,0,28,28,http:/,0,0,0
+1673457727324,45036,HTTP Request,200,OK,new_user 1-55,text,true,,670596,118,27,27,https://www.daraz.com.bd/,520,0,317
+1673457772361,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-55,text,false,,1122,0,27,27,http:/,0,0,0
+1673457726677,45899,HTTP Request,200,OK,new_user 1-22,text,true,,670545,118,26,26,https://www.daraz.com.bd/,2077,0,1718
+1673457772577,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-22,text,false,,1122,0,26,26,http:/,0,0,0
+1673457727960,44850,HTTP Request,200,OK,new_user 1-86,text,true,,670569,118,25,25,https://www.daraz.com.bd/,1019,0,771
+1673457772811,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-86,text,false,,1122,0,25,25,http:/,0,0,0
+1673457728067,44838,HTTP Request,200,OK,new_user 1-91,text,true,,670572,118,24,24,https://www.daraz.com.bd/,1323,0,1051
+1673457772906,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-91,text,false,,1122,0,24,24,http:/,0,0,0
+1673457727062,46499,HTTP Request,200,OK,new_user 1-42,text,true,,670569,118,23,23,https://www.daraz.com.bd/,1861,0,1754
+1673457773563,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-42,text,false,,1122,0,23,23,http:/,0,0,0
+1673457726643,47081,HTTP Request,200,OK,new_user 1-20,text,true,,670545,118,22,22,https://www.daraz.com.bd/,2942,0,1752
+1673457773726,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-20,text,false,,1122,0,22,22,http:/,0,0,0
+1673457728225,45529,HTTP Request,200,OK,new_user 1-99,text,true,,670548,118,21,21,https://www.daraz.com.bd/,2245,0,1960
+1673457773756,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-99,text,false,,1122,0,21,21,http:/,0,0,0
+1673457727900,46311,HTTP Request,200,OK,new_user 1-69,text,true,,670545,118,20,20,https://www.daraz.com.bd/,6530,0,6424
+1673457774212,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-69,text,false,,1122,0,20,20,http:/,0,0,0
+1673457726929,47404,HTTP Request,200,OK,new_user 1-34,text,true,,670545,118,19,19,https://www.daraz.com.bd/,2904,0,2272
+1673457774334,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-34,text,false,,1122,0,19,19,http:/,0,0,0
+1673457728056,46635,HTTP Request,200,OK,new_user 1-90,text,true,,670545,118,18,18,https://www.daraz.com.bd/,5135,0,5030
+1673457774692,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-90,text,false,,1122,0,18,18,http:/,0,0,0
+1673457727904,46868,HTTP Request,200,OK,new_user 1-70,text,true,,670545,118,17,17,https://www.daraz.com.bd/,6442,0,6334
+1673457774773,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-70,text,false,,1122,0,17,17,http:/,0,0,0
+1673457727607,47212,HTTP Request,200,OK,new_user 1-59,text,true,,670577,118,16,16,https://www.daraz.com.bd/,630,0,518
+1673457774820,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-59,text,false,,1122,0,16,16,http:/,0,0,0
+1673457727217,48270,HTTP Request,200,OK,new_user 1-49,text,true,,670577,118,15,15,https://www.daraz.com.bd/,744,0,509
+1673457775488,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-49,text,false,,1122,0,15,15,http:/,0,0,0
+1673457727134,48398,HTTP Request,200,OK,new_user 1-46,text,true,,670564,118,14,14,https://www.daraz.com.bd/,1990,0,1884
+1673457775534,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-46,text,false,,1122,0,14,14,http:/,0,0,0
+1673457726862,48684,HTTP Request,200,OK,new_user 1-32,text,true,,670564,118,13,13,https://www.daraz.com.bd/,1005,0,778
+1673457775547,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-32,text,false,,1122,0,13,13,http:/,0,0,0
+1673457727905,47884,HTTP Request,200,OK,new_user 1-76,text,true,,670545,118,12,12,https://www.daraz.com.bd/,1007,0,905
+1673457775790,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-76,text,false,,1122,0,12,12,http:/,0,0,0
+1673457727918,48097,HTTP Request,200,OK,new_user 1-80,text,true,,670545,118,11,11,https://www.daraz.com.bd/,2454,0,1946
+1673457776017,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-80,text,false,,1122,0,11,11,http:/,0,0,0
+1673457728146,47959,HTTP Request,200,OK,new_user 1-94,text,true,,670562,118,10,10,https://www.daraz.com.bd/,1991,0,1868
+1673457776107,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-94,text,false,,1122,0,10,10,http:/,0,0,0
+1673457726411,49699,HTTP Request,200,OK,new_user 1-5,text,true,,670545,118,9,9,https://www.daraz.com.bd/,2533,0,1339
+1673457776111,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-5,text,false,,1122,0,9,9,http:/,0,0,0
+1673457728181,47994,HTTP Request,200,OK,new_user 1-96,text,true,,670561,118,8,8,https://www.daraz.com.bd/,2346,0,2241
+1673457776177,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-96,text,false,,1122,0,8,8,http:/,0,0,0
+1673457726522,49784,HTTP Request,200,OK,new_user 1-15,text,true,,670556,118,7,7,https://www.daraz.com.bd/,1999,0,1883
+1673457776308,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-15,text,false,,1122,0,7,7,http:/,0,0,0
+1673457727157,49177,HTTP Request,200,OK,new_user 1-47,text,true,,670564,118,6,6,https://www.daraz.com.bd/,694,0,483
+1673457776336,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-47,text,false,,1122,0,6,6,http:/,0,0,0
+1673457726416,49997,HTTP Request,200,OK,new_user 1-10,text,true,,670569,118,5,5,https://www.daraz.com.bd/,1457,0,1341
+1673457776414,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-10,text,false,,1122,0,5,5,http:/,0,0,0
+1673457728095,48366,HTTP Request,200,OK,new_user 1-93,text,true,,670596,118,4,4,https://www.daraz.com.bd/,420,0,310
+1673457776462,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-93,text,false,,1122,0,4,4,http:/,0,0,0
+1673457727254,49864,HTTP Request,200,OK,new_user 1-52,text,true,,670545,118,3,3,https://www.daraz.com.bd/,650,0,534
+1673457777119,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-52,text,false,,1122,0,3,3,http:/,0,0,0
+1673457726946,53198,HTTP Request,200,OK,new_user 1-36,text,true,,670540,118,2,2,https://www.daraz.com.bd/,35967,0,35862
+1673457780149,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-36,text,false,,1122,0,2,2,http:/,0,0,0
+1673457727607,59009,HTTP Request,200,OK,new_user 1-58,text,true,,670545,118,1,1,https://www.daraz.com.bd/,1222,0,590
+1673457786617,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,new_user 1-58,text,false,,1122,0,1,1,http:/,0,0,0
